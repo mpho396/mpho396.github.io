@@ -3,15 +3,15 @@ margin-left:auto;
 margin-right:auto;
 }
 textarea{
-display: circle;
-margin-bottom: 12px;
+display: heart;
+margin-bottom: 8px;
 margin-left:auto;
 margin-right:auto;
-border-radius: 7px;
+border-radius: 5px;
 }
 button{
-height: 50px;
-width: 50px;
+height: 40px;
+width: 40px;
 }
 #opac{
 opacity: 0.25;
@@ -20,5 +20,12 @@ width: 87px;
 margin: auto;
 }
 body {
+ background-image: url("paper.gif");
+}  
+
+.jumbotron {
+ background-color:pink;
 }
+
+  
 
