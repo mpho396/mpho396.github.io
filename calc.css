@@ -4,14 +4,14 @@ margin-right:auto;
 }
 textarea{
 display: heart;
-margin-bottom: 8px;
+margin-bottom: 12px;
 margin-left:auto;
 margin-right:auto;
-border-radius: 5px;
+border-radius: 7px;
 }
 button{
-height: 40px;
-width: 40px;
+height: 50px;
+width: 50px;
 }
 #opac{
 opacity: 0.25;
@@ -20,10 +20,5 @@ width: 87px;
 margin: auto;
 }
 body {
- background-image: url("paper.gif");
-}  
-
-  
-   
 }
 
